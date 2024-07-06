@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus Vivobook S\\Desktop\\CRUD_EMPLOYEE_JOFFROY\\BackEndCrudAngular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02D989-7DB3-4CA9-87FF-6FCB918C8F05}|BackEndCrudAngular\\BackEndCrudAngular.csproj|c:\\users\\asus vivobook s\\desktop\\crud_employee_joffroy\\backendcrudangular\\backendcrudangular\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB02D989-7DB3-4CA9-87FF-6FCB918C8F05}|BackEndCrudAngular\\BackEndCrudAngular.csproj|solutionrelative:backendcrudangular\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02D989-7DB3-4CA9-87FF-6FCB918C8F05}|BackEndCrudAngular\\BackEndCrudAngular.csproj|c:\\users\\asus vivobook s\\desktop\\crud_employee_joffroy\\backendcrudangular\\backendcrudangular\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB02D989-7DB3-4CA9-87FF-6FCB918C8F05}|BackEndCrudAngular\\BackEndCrudAngular.csproj|solutionrelative:backendcrudangular\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02D989-7DB3-4CA9-87FF-6FCB918C8F05}|BackEndCrudAngular\\BackEndCrudAngular.csproj|c:\\users\\asus vivobook s\\desktop\\crud_employee_joffroy\\backendcrudangular\\backendcrudangular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB02D989-7DB3-4CA9-87FF-6FCB918C8F05}|BackEndCrudAngular\\BackEndCrudAngular.csproj|solutionrelative:backendcrudangular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02D989-7DB3-4CA9-87FF-6FCB918C8F05}|BackEndCrudAngular\\BackEndCrudAngular.csproj|c:\\users\\asus vivobook s\\desktop\\crud_employee_joffroy\\backendcrudangular\\backendcrudangular\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB02D989-7DB3-4CA9-87FF-6FCB918C8F05}|BackEndCrudAngular\\BackEndCrudAngular.csproj|solutionrelative:backendcrudangular\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoData.cs",
+              "DocumentMoniker": "C:\\Users\\Asus Vivobook S\\Desktop\\CRUD_EMPLOYEE_JOFFROY\\BackEndCrudAngular\\BackEndCrudAngular\\Data\\EmpleadoData.cs",
+              "RelativeDocumentMoniker": "BackEndCrudAngular\\Data\\EmpleadoData.cs",
+              "ToolTip": "C:\\Users\\Asus Vivobook S\\Desktop\\CRUD_EMPLOYEE_JOFFROY\\BackEndCrudAngular\\BackEndCrudAngular\\Data\\EmpleadoData.cs",
+              "RelativeToolTip": "BackEndCrudAngular\\Data\\EmpleadoData.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAxwGsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:00:47.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus Vivobook S\\Desktop\\CRUD_EMPLOYEE_JOFFROY\\BackEndCrudAngular\\BackEndCrudAngular\\Program.cs",
+              "RelativeDocumentMoniker": "BackEndCrudAngular\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus Vivobook S\\Desktop\\CRUD_EMPLOYEE_JOFFROY\\BackEndCrudAngular\\BackEndCrudAngular\\Program.cs",
+              "RelativeToolTip": "BackEndCrudAngular\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:48:00.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Asus Vivobook S\\Desktop\\CRUD_EMPLOYEE_JOFFROY\\BackEndCrudAngular\\BackEndCrudAngular\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "BackEndCrudAngular\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Asus Vivobook S\\Desktop\\CRUD_EMPLOYEE_JOFFROY\\BackEndCrudAngular\\BackEndCrudAngular\\Models\\Empleado.cs",
+              "RelativeToolTip": "BackEndCrudAngular\\Models\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:26:00.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus Vivobook S\\Desktop\\CRUD_EMPLOYEE_JOFFROY\\BackEndCrudAngular\\BackEndCrudAngular\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "BackEndCrudAngular\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\Asus Vivobook S\\Desktop\\CRUD_EMPLOYEE_JOFFROY\\BackEndCrudAngular\\BackEndCrudAngular\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "BackEndCrudAngular\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:06:00.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

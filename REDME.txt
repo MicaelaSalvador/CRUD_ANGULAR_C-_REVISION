@@ -1,0 +1,14 @@
+
+Backend.
+Comento que para los  endpoint se utilizó C# NET CORE WEB API 8,ADO.NET, endpoint  funcionando  correctamente, realizando  un crud  básico.
+
+FrondEnd.
+Se utilizó angular17, funcionando  correctamente  el CRUD , sólo que  al actualizar hay  un detallito  con las  fecha de  debe de  agregar de  esta manera  para  poder  guardarla 05-07-2024, de lo contario  marca  un error.
+
+Falto el detalle del roll, la verdad  como le comenté por cuestiones  necesarios me ausenté de  la ciudad lo que  no me permitió investigar un poco más y concluir.
+
+Base de  Datos.
+
+Anexo la base de  datos  realizado en  MYSQL, utilicé procedimientos  almacenados . 
+
+

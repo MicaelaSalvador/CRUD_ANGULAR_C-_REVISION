@@ -1,0 +1,6 @@
+@BackEndCrudAngular_HostAddress = http://localhost:5144
+
+GET {{BackEndCrudAngular_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
